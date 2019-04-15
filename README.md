@@ -1,5 +1,5 @@
 
-
+Demo: https://react-airbnb-style-app.herokuapp.com/rentals
 <p>
   <img src="https://res.cloudinary.com/yeondam88/image/upload/v1537633710/react-original.svg" width="30" />
   <img src="https://res.cloudinary.com/yeondam88/image/upload/v1537633710/sass-original.svg" width="30" />
@@ -34,7 +34,7 @@
 
 ## Run Locally
 ```js
-> git clone https://github.com/yeondam88/react-airbnb-style-app.git
+> git clone https://github.com/sarahschoonmaker/react-airbnb-style-app.git
 > npm install
 > npm run start-dev // to start front-end server
 > npm start // to start back-end server
